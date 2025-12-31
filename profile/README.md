@@ -8,23 +8,6 @@ Welcome to **Famsub** — the fun and smart way to **share subscriptions** or **
 
 ---
 
-## 🚀 Tech Stack
-
-### 🌐 Web
-- **Nuxt.js 3**
-- **NuxtUI 4**
-- **Tailwind CSS**
-- **NestJS**
-- **PostgreSQL**
-
-### 📱 Mobile
-- **Flutter**
-- **Dart**
-- **REST API (NestJS backend)**
-- **BLoC** (state management depending on features)
-
----
-
 ## 💡 Why Famsub?
 Subscriptions shouldn’t be expensive or complicated.  
 Famsub helps people **split costs**, **manage shared access**, and **build trust** — all in one simple and friendly platform.
